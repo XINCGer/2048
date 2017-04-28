@@ -11,5 +11,5 @@ Cococs2d-x3.8&C++
 ![](./preview/3.png)  
 
 >* 游戏下载  
-[Win版下载](https://yunpan.cn/c6IUbhv8ZSyyr)访问密码 768b  
-[Android版下载](https://yunpan.cn/c6IU4UA7sbJu8)访问密码 807c
+* [Win版](http://pan.baidu.com/s/1i4JdjAt)  访问密码 vlt5  
+* [Android版](http://pan.baidu.com/s/1jIxCBNw)访问密码 iqeu  
